@@ -93,7 +93,8 @@ figure {
   width: 14rem;
 }
 
-.img {
-  margin: 0;
-  padding: 0;
+.case-img {
+  width: 35rem;
+  border: 1px solid lightgrey;
+  margin: 2rem;
 }
