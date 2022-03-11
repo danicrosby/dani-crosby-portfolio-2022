@@ -46,26 +46,14 @@ body {
   width: 22rem;
 }
 
-.p1 {
-  text-align: center;
-  padding: 0em 12rem;
-}
-
 .projects {
   display: flex;
   justify-content: center;
   border-bottom: 1px solid lightgrey;
-  /* background: linear-gradient(
-    to bottom,
-    white 0%,
-    white 50%,
-    rgb(235, 235, 235) 50%,
-    rgb(235, 235, 235) 100%
-  ); */
 }
 
-figure {
-  width: 9rem;
+.p1 {
+  text-align: center;
 }
 
 .p5-a {
